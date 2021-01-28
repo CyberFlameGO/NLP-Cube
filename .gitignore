@@ -1,4 +1,4 @@
-Languasito-work/data/
+# Languasito-work/data/
 *.pyc
 build/
 dist/
